@@ -22,7 +22,6 @@ select count(*) as total_content from netflix;
 
 select distinct type from netflix;
 
-
 select * from netflix
 
 -- 15 Business problems
